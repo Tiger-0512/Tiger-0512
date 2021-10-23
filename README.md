@@ -1,6 +1,7 @@
 [![](https://raw.githubusercontent.com/Tiger-0512/Tiger-0512/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Tiger-0512/Tiger-0512/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Tiger-0512/Tiger-0512/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Tiger-0512/Tiger-0512/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <br>
+![](https://komarev.com/ghpvc/?username=Tiger-0512&color=88C0D0)
 
 
 <!--
